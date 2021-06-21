@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ESTUDOS .NET\\AuthJWT_ASPNETCore2\\AuthJWT_ASPNETCore2\\AuthJWT_ASPNETCore2.csproj": {}
+    "C:\\Users\\Ogarian\\Desktop\\OGARIAN\\PROJETOS\\PUBLICOS\\projeto_authjwt_aspnetcore2\\AuthJWT_ASPNETCore2.csproj": {}
   },
   "projects": {
-    "C:\\ESTUDOS .NET\\AuthJWT_ASPNETCore2\\AuthJWT_ASPNETCore2\\AuthJWT_ASPNETCore2.csproj": {
+    "C:\\Users\\Ogarian\\Desktop\\OGARIAN\\PROJETOS\\PUBLICOS\\projeto_authjwt_aspnetcore2\\AuthJWT_ASPNETCore2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ESTUDOS .NET\\AuthJWT_ASPNETCore2\\AuthJWT_ASPNETCore2\\AuthJWT_ASPNETCore2.csproj",
+        "projectUniqueName": "C:\\Users\\Ogarian\\Desktop\\OGARIAN\\PROJETOS\\PUBLICOS\\projeto_authjwt_aspnetcore2\\AuthJWT_ASPNETCore2.csproj",
         "projectName": "AuthJWT_ASPNETCore2",
-        "projectPath": "C:\\ESTUDOS .NET\\AuthJWT_ASPNETCore2\\AuthJWT_ASPNETCore2\\AuthJWT_ASPNETCore2.csproj",
+        "projectPath": "C:\\Users\\Ogarian\\Desktop\\OGARIAN\\PROJETOS\\PUBLICOS\\projeto_authjwt_aspnetcore2\\AuthJWT_ASPNETCore2.csproj",
         "packagesPath": "C:\\Users\\Ogarian\\.nuget\\packages\\",
-        "outputPath": "C:\\ESTUDOS .NET\\AuthJWT_ASPNETCore2\\AuthJWT_ASPNETCore2\\obj\\",
+        "outputPath": "C:\\Users\\Ogarian\\Desktop\\OGARIAN\\PROJETOS\\PUBLICOS\\projeto_authjwt_aspnetcore2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -31,6 +31,7 @@
         },
         "frameworks": {
           "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
             "projectReferences": {}
           }
         },
@@ -42,6 +43,7 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
           "dependencies": {
             "Microsoft.AspNetCore.App": {
               "suppressParent": "All",
@@ -87,7 +89,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -9,8 +9,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace AuthJWT_ASPNETCore2.Migrations
 {
     [DbContext(typeof(Context))]
-    [Migration("20201206141953_BancoInicial")]
-    partial class BancoInicial
+    [Migration("20210621001226_InitialCreate")]
+    partial class InitialCreate
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
