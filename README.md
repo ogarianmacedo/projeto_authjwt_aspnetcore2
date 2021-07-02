@@ -1,4 +1,6 @@
-# Projeto - WebAPI com Asp.net Core 2.2, Autenticação JWT, Swagger
+# projeto_authjwt_aspnetcore2
+
+Projeto Livre - WebAPI com Asp.NET Core 2.2, Autenticação JWT e Swagger
 
 #### Instruções
     1- Executar: dotnet add package Microsoft.AspNetCore.Mvc.Versioning --version 3.1.6
